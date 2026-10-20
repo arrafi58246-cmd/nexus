@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1080px" height="1080px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1080 1080"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+    .fil2 {fill:url(#id3)}
+   ]]>
+  </style>
+     <clipPath id="id0">
+      <path d="M168.67 61.18l768.53 0 0 432.53 -768.53 0 0 -432.53z"/>
+     </clipPath>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="814.83" y1="692.05" x2="786.21" y2="372.07">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2FD3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#222EA7"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="295.96" y1="208.33" x2="317.49" y2="763.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D2D3D5"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#E8E8E9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="569.19" y1="77.75" x2="554.14" y2="300.97">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFE867"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFC300"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2351804028432">
+   <path class="fil0" d="M613.63 472.29c0.16,3.91 0.23,7.92 0.15,12.07l0 553.95 372.72 0 0 -553.95c-0.08,-4.15 -0.01,-8.16 0.14,-12.07 -2.53,-113.28 -49.84,-185.45 -100.23,-257.51 -66.98,89.42 -152.04,133.36 -261.57,155.43 -6.53,31.92 -10.39,65.96 -11.21,102.08z"/>
+   <path class="fil1" d="M462.8 471.68c-0.15,3.92 -0.22,7.93 -0.14,12.08l0 553.94 -372.73 0 0 -553.94c0.09,-4.15 0.02,-8.16 -0.14,-12.08 2.54,-113.28 61.63,-196.93 118.63,-264.17 66.98,89.42 133.65,140.02 243.17,162.09 6.54,31.93 10.4,65.96 11.21,102.08z"/>
+   <g>
+    <g style="clip-path:url(#id0)">
+     <image x="168.67" y="61.18" width="768.52" height="432.53" xlink:href="NEXUS LOGO_Images\NEXUS LOGO_ImgID1.png"/>
+    </g>
+   </g>
+   <path class="fil2" d="M904.12 238.37c-87.83,-125.63 -232.69,-192.21 -363.46,-193.1 -142.01,-0.98 -278.03,86.36 -362.2,198.73 87.84,125.63 223.37,103.62 360.51,175.11 125.93,65.65 262.77,-88.46 365.15,-180.74z"/>
+  </g>
+ </g>
+</svg>
